@@ -1,7 +1,7 @@
 # DSCI 521 Q6.0.1
-[link of my repo from mybinder](https://hub.mybinder.org/user/mikeymice-blog_lab2-1-jxmzctdw/tree)
 
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Mikeymice/blog_lab2-1/master)
 
 
 
